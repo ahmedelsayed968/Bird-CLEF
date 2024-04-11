@@ -1,0 +1,8 @@
+torchaudio
+torch
+audiomentations
+timm
+soundfile
+pandas 
+pydub
+librosa
