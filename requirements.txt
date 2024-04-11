@@ -6,3 +6,6 @@ soundfile
 pandas 
 pydub
 librosa
+loralib
+peft
+transformers
